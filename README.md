@@ -1,7 +1,7 @@
 # After Effects Layer Staggering and Opacity Script
 
 This script is designed to be used in Adobe After Effects. It staggers the start times of all layers in the active composition, except for a specified null layer, so they are 1 frame apart. It also parents each PNG layer to the null layer and applies an opacity expression that makes the layer visible every nth frame (where n is the value of a "Frame Rate" slider on the null layer) and invisible otherwise.
-
+Taken inspo from this video https://www.youtube.com/watch?v=uJor5NsSohk&t=382s
 ## Usage
 
 1. Open your project in Adobe After Effects.
